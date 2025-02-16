@@ -1,20 +1,20 @@
+
 public class Cane extends Animale {
 
     @Override
-    public String nomeAnimale(){
-        String nomeCane = "Cane";
+    public String nomeAnimale() {
+        String nomeCane = "Del Cane";
         return nomeCane;
     }
-    
+
     @Override
-    public String faiVerso(){
-       String versoCane = "Abbaio";
-       return versoCane;
+    public String faiVerso() {
+        String versoCane = "Abbaio";
+        return versoCane;
     }
 
-
     @Override
-    public String mangia(){
+    public String mangia() {
         String mangiaCane = "Carne";
         return mangiaCane;
     }
