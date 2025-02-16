@@ -4,7 +4,7 @@ public class UsaAnimale {
     public static void main(String[] args) {
         Animale aquilaReale = new Aquila();
         aquilaReale.stampa();
-        
+
         Animale caneFuffi = new Cane();
         caneFuffi.stampa();
 
@@ -18,9 +18,6 @@ public class UsaAnimale {
         animali.faiVolare("Aquila");
         animali.faiVolare("Passerotto");
         animali.faiNuotare("Delfino");
-
-
-
 
     }
 }

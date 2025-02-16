@@ -22,6 +22,7 @@ public class Aquila extends Animale implements Interfaccia {
     public void vola() {
         System.out.println("Sto volando");
     }
+
     public void nuota() {
         System.out.println("Non nuoto");
     }

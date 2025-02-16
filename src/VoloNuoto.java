@@ -1,8 +1,6 @@
 
 public class VoloNuoto {
 
-
-
     public void faiVolare(String animale) {
         if (animale.equals("Passerotto") || animale.equals("Aquila")) {
             Aquila aquila = new Aquila();

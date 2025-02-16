@@ -19,11 +19,11 @@ public class Delfino extends Animale implements Interfaccia {
         return mangiaDelfino;
     }
 
-    public void nuota(){
+    public void nuota() {
         System.out.println("Sto nuotando");
     }
 
-    public void vola(){
+    public void vola() {
         System.out.println("Non volo");
     }
 }

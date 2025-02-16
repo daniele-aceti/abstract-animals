@@ -23,7 +23,7 @@ public class Passerotto extends Animale implements Interfaccia {
         System.out.println("Sto volando");
     }
 
-    public void nuota(){
+    public void nuota() {
         System.out.println("Non nuoto");
     }
 }
