@@ -1,8 +1,10 @@
+
 public class Aquila extends Animale{
+
 
     @Override
     public String nomeAnimale(){
-        String nomeAquila = "Dell'Aquila";
+        String nomeAquila = "Aquila";
         return nomeAquila;
     }
 

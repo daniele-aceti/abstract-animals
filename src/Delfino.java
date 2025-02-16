@@ -2,7 +2,7 @@ public class Delfino extends Animale {
 
     @Override
     public String nomeAnimale(){
-        String nomeDelfino = "Del Delfino";
+        String nomeDelfino = "Delfino";
         return nomeDelfino;
     }
 
